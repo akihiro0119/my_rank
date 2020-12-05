@@ -21,6 +21,7 @@
 |--------------------  |---------------------------------------------|
 | title                | string      | null: false                   |
 | body                 | text        | null: false                   |
+| image                |             |                               |
 | user_id　　　　　　    | references  | null: false foreign_key:true  |
 
 
